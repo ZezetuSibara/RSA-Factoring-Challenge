@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <stdlib.h>
 #include "factors.h"
 #include <iostream>
 #include <fstream>

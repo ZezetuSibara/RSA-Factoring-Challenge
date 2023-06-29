@@ -1,7 +1,7 @@
 #!/usr/bin/python3
+import math
 import sys
 import time
-import math
 
 def factorize_number(num):
     factors = []

@@ -1,11 +1,13 @@
 #!/usr/bin/python3
 import sys
 from sys import argv
+import time
+import math
 
 """
 File_name: factors
-Created: 28th of May, 2023
-Auth: David James Taiye (Official0mega)
+Created: 21st June, 2023
+Auth: Zezetu Sibara
 Size: undefined
 Project: RSA-Factoring-Challenge
 Status: submitted.
@@ -15,10 +17,8 @@ Status: submitted.
 def factorize(value):
 
     """
-    # Factorize as many numbers as possible into..
-    # ..a product of two smaller numbers.
-    # VARIABLE(" "):
-    # factorize(int) Factorize all the things!
+    # Factorize as many numbers as possible
+    # factorize(int) Factorize all!
     # Usage: factors <file>
     # Output format: n=p*q
     """
